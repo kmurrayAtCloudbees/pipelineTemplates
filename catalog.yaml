@@ -1,0 +1,4 @@
+type: pipeline-template-catalog
+version: 1
+name: pipeline-template-example
+displayName: pipeline template example
